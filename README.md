@@ -1,1 +1,5 @@
-# hu-oss-sw-2018-lab-3
+# hu-oss-sw-2018-lab-
+OSS SW Lab.
+===========
+
+ * 'Kang MinWoo' 
